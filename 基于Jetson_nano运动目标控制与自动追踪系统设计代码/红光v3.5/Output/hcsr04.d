@@ -1,0 +1,13 @@
+..\..\output\hcsr04.o: ..\..\Driver\hcsr04.c
+..\..\output\hcsr04.o: ..\..\Driver\hcsr04.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\hcsr04.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\hcsr04.o: ..\..\Application\stm32f10x_conf.h
+..\..\output\hcsr04.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\hcsr04.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\..\output\hcsr04.o: ..\..\Libraries\inc\stm32f10x_tim.h
+..\..\output\hcsr04.o: ..\..\Libraries\inc\misc.h
+..\..\output\hcsr04.o: ..\..\Driver\delay.h

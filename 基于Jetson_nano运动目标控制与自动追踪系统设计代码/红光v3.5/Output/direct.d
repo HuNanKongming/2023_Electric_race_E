@@ -1,0 +1,12 @@
+..\..\output\direct.o: ..\..\Driver\direct.c
+..\..\output\direct.o: ..\..\Driver\direct.h
+..\..\output\direct.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\direct.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\direct.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\direct.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\direct.o: ..\..\Application\stm32f10x_conf.h
+..\..\output\direct.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\..\output\direct.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\direct.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\..\output\direct.o: ..\..\Libraries\inc\stm32f10x_tim.h
+..\..\output\direct.o: ..\..\Libraries\inc\misc.h
