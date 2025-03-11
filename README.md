@@ -1,6 +1,23 @@
 # 2023_Electric_race_E
-**2023电赛E题**
+# **2023电赛E题**
 
-基于Jetson_nano运动目标控制与自动追踪系统设计代码
+**基于Jetson_nano运动目标控制与自动追踪系统设计代码**
 
-视频演示：https://www.bilibili.com/video/BV1bw4m1U7vq/?spm_id_from=333.1387.homepage.video_card.click
+**视频演示：https://www.bilibili.com/video/BV1bw4m1U7vq/?spm_id_from=333.1387.homepage.video_card.click**
+
+## 项目简介
+
+摄像头图像处理系统旨在通过图像处理技术实时检测并处理来自摄像头的图像。该系统主要用于以下功能：
+
+1. **图像读取与处理**：从摄像头捕获图像并截取感兴趣区域（ROI）。
+2. **路径信息提取**：通过图像处理算法从图像中提取路径信息。
+3. **激光点检测**：识别并定位图像中的红色和绿色激光点。
+4. **串口通信**：通过串口与外部设备进行数据通信，支持与 Jetson Nano 进行交互。
+
+## 功能特性
+
+- 实时摄像头图像捕捉与处理
+- 红色和绿色激光点自动检测
+- 串口数据发送功能，支持与 Jetson Nano 连接
+- 易于扩展和自定义处理方法
+
