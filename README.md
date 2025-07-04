@@ -6,7 +6,7 @@
   邮箱地址：2500698745@qq.com
   ##
 **视频演示：https://www.bilibili.com/video/BV1bw4m1U7vq/?spm_id_from=333.1387.homepage.video_card.click**
-
+有问题欢迎B站视频下面讨论，我看到会第一时间回复，希望这份代码能给你提供帮助
 ### 本代码的硬件：
 
  **STM32C8T6+Jetson Nano**
