@@ -7,6 +7,10 @@
   ##
 **视频演示：https://www.bilibili.com/video/BV1bw4m1U7vq/?spm_id_from=333.1387.homepage.video_card.click**
 
+### 本代码的硬件：
+
+ **STM32C8T6+Jetson Nano**
+
 ## 项目简介
 
 摄像头图像处理系统旨在通过图像处理技术实时检测并处理来自摄像头的图像。该系统主要用于以下功能：

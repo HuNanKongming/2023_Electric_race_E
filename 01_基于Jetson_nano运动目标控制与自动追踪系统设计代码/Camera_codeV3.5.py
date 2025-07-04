@@ -3,6 +3,7 @@
 # 项目名称：摄像头图像识别处理系统
 # 版本：V3.5
 # 波动科技6688
+# B站结果展示界面：https://space.bilibili.com/645716260?spm_id_from=333.788.0.0
 # 许可证：MIT License
 # 
 # Copyright (c) 2024 波动科技6688
